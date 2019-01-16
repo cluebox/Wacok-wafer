@@ -1,0 +1,16 @@
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.exe.config
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.exe
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.pdb
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\SpssLib.dll
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\SpssLib.xml
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.csprojResolveAssemblyReference.cache
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.exe
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.pdb
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.exe.config
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.exe
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.pdb
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.exe
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\Wacok-wafer-Parsing.pdb
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\Wacok-wafer-Parsing\Wacok-wafer-Parsing\obj\Debug\Wacok-wafer-Parsing.csprojResolveAssemblyReference.cache
